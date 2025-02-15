@@ -1,7 +1,7 @@
 person:
   name:
     first_name: King Lebronto
-  age: 2000
+  age: 'who even cares'
   employed: true
   hobbies:
     - tennis
